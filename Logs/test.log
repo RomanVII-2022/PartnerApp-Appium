@@ -1,0 +1,11 @@
+2023-05-30 17:10:33,969 : DEBUG : loginPage : 14 : **** Alert button was not found. ****
+2023-05-30 17:10:34,669 : DEBUG : loginPage : 22 : **** Phone number was entered successfully ****
+2023-05-30 17:10:35,739 : DEBUG : loginPage : 32 : **** Password was entered successfully ****
+2023-05-30 17:10:36,315 : DEBUG : loginPage : 41 : **** Login button was clicked successfully ****
+2023-05-30 17:10:37,848 : DEBUG : loginPage : 49 : **** Error message was found successfully ****
+2023-05-30 17:10:37,848 : DEBUG : test_001_login : 32 : **** Expected message matched the actual meassage ***
+2023-05-30 17:10:51,841 : DEBUG : loginPage : 24 : **** Phone number was not entered. ****
+2023-05-30 17:10:52,419 : DEBUG : loginPage : 32 : **** Password was entered successfully ****
+2023-05-30 17:10:52,999 : DEBUG : loginPage : 41 : **** Login button was clicked successfully ****
+2023-05-30 17:10:53,924 : DEBUG : loginPage : 49 : **** Error message was found successfully ****
+2023-05-30 17:10:53,924 : DEBUG : test_001_login : 50 : **** Expected message did not match the actual message ****
