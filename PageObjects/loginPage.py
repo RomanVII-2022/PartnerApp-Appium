@@ -1,4 +1,5 @@
 from appium.webdriver.common.appiumby import AppiumBy
+import time
 
 class Login:
     def __init__(self, driver, logging):
@@ -23,6 +24,16 @@ class Login:
         except:
             self.logging.debug(f"**** Phone number was not entered. ****")
 
+
+    def phone_input_clear(self):
+        try:
+            input_field = self.driver.find_element(AppiumBy.XPATH, "//android.view.ViewGroup[3]/android.view.ViewGroup[2]/android.widget.EditText")
+            input_field.clear()
+            self.logging.debug("**** Phone number field was cleared successfully ****")
+        except:
+            self.logging.debug(f"**** Phone number was not entered. ****")
+
+
     
     def password_input(self, password):
         try:
@@ -34,6 +45,7 @@ class Login:
             self.logging.debug(f"**** Password was not entered. ****")
 
 
+
     def login_btn(self):
         try:
             btn = self.driver.find_element(AppiumBy.XPATH, "//android.view.ViewGroup[4]")
@@ -41,6 +53,7 @@ class Login:
             self.logging.debug("**** Login button was clicked successfully ****")
         except:
             self.logging.debug(f"**** Login button was not found. ****")
+
 
     def error_msg(self):
         try:

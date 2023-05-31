@@ -9,7 +9,7 @@ def setup():
         deviceName='emulator-5554',
         appPackage='com.quatrixglobal.partner',
         appActivity='com.quatrixglobal.partner.MainActivity',
-        #noReset=True
+        noReset=True
     )
 
     appium_server_url = 'http://localhost:4723'
