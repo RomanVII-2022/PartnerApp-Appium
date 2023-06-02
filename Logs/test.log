@@ -1,4 +1,29 @@
-2023-05-31 10:37:33,773 : DEBUG : loginPage : 23 : **** Phone number was entered successfully ****
-2023-05-31 10:37:34,947 : DEBUG : loginPage : 43 : **** Password was entered successfully ****
-2023-05-31 10:37:35,520 : DEBUG : loginPage : 53 : **** Login button was clicked successfully ****
-2023-05-31 10:37:36,393 : DEBUG : loginPage : 62 : **** Error message was found successfully ****
+2023-06-02 12:02:18,573 : DEBUG : loginPage : 23 : **** Phone number was entered successfully ****
+2023-06-02 12:02:19,643 : DEBUG : loginPage : 43 : **** Password was entered successfully ****
+2023-06-02 12:02:20,214 : DEBUG : loginPage : 53 : **** Login button was clicked successfully ****
+2023-06-02 12:02:22,520 : DEBUG : loginPage : 62 : **** Error message was found successfully ****
+2023-06-02 12:02:22,520 : DEBUG : test_001_login : 16 : **** Expected message matched the actual meassage ***
+2023-06-02 12:02:26,545 : DEBUG : loginPage : 32 : **** Phone number field was cleared successfully ****
+2023-06-02 12:02:27,685 : DEBUG : loginPage : 23 : **** Phone number was entered successfully ****
+2023-06-02 12:02:28,757 : DEBUG : loginPage : 43 : **** Password was entered successfully ****
+2023-06-02 12:02:29,391 : DEBUG : loginPage : 53 : **** Login button was clicked successfully ****
+2023-06-02 12:02:30,451 : DEBUG : loginPage : 62 : **** Error message was found successfully ****
+2023-06-02 12:02:30,451 : DEBUG : test_001_login : 32 : **** Expected message matched the actual meassage ***
+2023-06-02 12:02:34,508 : DEBUG : loginPage : 32 : **** Phone number field was cleared successfully ****
+2023-06-02 12:02:35,650 : DEBUG : loginPage : 23 : **** Phone number was entered successfully ****
+2023-06-02 12:02:36,710 : DEBUG : loginPage : 43 : **** Password was entered successfully ****
+2023-06-02 12:02:37,289 : DEBUG : loginPage : 53 : **** Login button was clicked successfully ****
+2023-06-02 12:02:38,225 : DEBUG : loginPage : 62 : **** Error message was found successfully ****
+2023-06-02 12:02:38,225 : DEBUG : test_001_login : 48 : **** Expected message matched the actual meassage ***
+2023-06-02 12:02:42,275 : DEBUG : loginPage : 32 : **** Phone number field was cleared successfully ****
+2023-06-02 12:02:43,408 : DEBUG : loginPage : 23 : **** Phone number was entered successfully ****
+2023-06-02 12:02:44,466 : DEBUG : loginPage : 43 : **** Password was entered successfully ****
+2023-06-02 12:02:45,039 : DEBUG : loginPage : 53 : **** Login button was clicked successfully ****
+2023-06-02 12:02:47,149 : DEBUG : test_001_login : 64 : **** Login was successfull ****
+2023-06-02 12:02:47,192 : DEBUG : loginPage : 81 : **** Important info button was clicked successfully ****
+2023-06-02 12:02:48,446 : DEBUG : loginPage : 90 : **** Permission controller button was clicked successfully ****
+2023-06-02 12:02:50,130 : DEBUG : loginPage : 98 : *** All time button was clicked successfully ****
+2023-06-02 12:02:50,224 : DEBUG : loginPage : 107 : **** Back button was clicked successfully ****
+2023-06-02 12:02:51,092 : DEBUG : loginPage : 81 : **** Important info button was clicked successfully ****
+2023-06-02 12:02:51,727 : DEBUG : loginPage : 81 : **** Important info button was clicked successfully ****
+2023-06-02 12:02:51,727 : DEBUG : test_001_login : 77 : **** Access to the home page was successfull ****
