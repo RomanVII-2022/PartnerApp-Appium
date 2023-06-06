@@ -1,2 +1,11 @@
-2023-06-05 13:43:56,576 : DEBUG : accountPage : 18 : **** Menu button was clicked successfully ****
-2023-06-05 13:43:58,125 : DEBUG : accountPage : 26 : **** Account link was clicked successfully ****
+2023-06-06 10:32:10,550 : DEBUG : accountPage : 16 : **** Menu button was clicked successfully ****
+2023-06-06 10:32:12,200 : DEBUG : accountPage : 24 : **** Account link was clicked successfully ****
+2023-06-06 10:32:14,749 : DEBUG : accountPage : 34 : **** Swipe up was successfull ****
+2023-06-06 10:32:15,099 : DEBUG : accountPage : 43 : **** Edit button was clicked successfully ****
+2023-06-06 10:32:16,276 : DEBUG : accountPage : 53 : **** National ID was entered successfully ****
+2023-06-06 10:32:17,361 : DEBUG : accountPage : 63 : **** KRA pin was entered successfully ****
+2023-06-06 10:32:18,412 : DEBUG : accountPage : 73 : **** Box was entered successfully ****
+2023-06-06 10:32:19,509 : DEBUG : accountPage : 83 : **** City was entered successfully ****
+2023-06-06 10:32:20,592 : DEBUG : accountPage : 93 : **** Postal code was entered successfully ****
+2023-06-06 10:32:21,643 : DEBUG : accountPage : 103 : **** Street was entered successfully ****
+2023-06-06 10:32:22,218 : DEBUG : accountPage : 112 : **** Save button was clicked successfully ****
