@@ -1,11 +1,60 @@
-2023-06-06 10:32:10,550 : DEBUG : accountPage : 16 : **** Menu button was clicked successfully ****
-2023-06-06 10:32:12,200 : DEBUG : accountPage : 24 : **** Account link was clicked successfully ****
-2023-06-06 10:32:14,749 : DEBUG : accountPage : 34 : **** Swipe up was successfull ****
-2023-06-06 10:32:15,099 : DEBUG : accountPage : 43 : **** Edit button was clicked successfully ****
-2023-06-06 10:32:16,276 : DEBUG : accountPage : 53 : **** National ID was entered successfully ****
-2023-06-06 10:32:17,361 : DEBUG : accountPage : 63 : **** KRA pin was entered successfully ****
-2023-06-06 10:32:18,412 : DEBUG : accountPage : 73 : **** Box was entered successfully ****
-2023-06-06 10:32:19,509 : DEBUG : accountPage : 83 : **** City was entered successfully ****
-2023-06-06 10:32:20,592 : DEBUG : accountPage : 93 : **** Postal code was entered successfully ****
-2023-06-06 10:32:21,643 : DEBUG : accountPage : 103 : **** Street was entered successfully ****
-2023-06-06 10:32:22,218 : DEBUG : accountPage : 112 : **** Save button was clicked successfully ****
+2023-06-08 09:50:16,160 : DEBUG : loginPage : 23 : **** Phone number was entered successfully ****
+2023-06-08 09:50:17,235 : DEBUG : loginPage : 43 : **** Password was entered successfully ****
+2023-06-08 09:50:17,834 : DEBUG : loginPage : 53 : **** Login button was clicked successfully ****
+2023-06-08 09:50:19,803 : DEBUG : loginPage : 62 : **** Error message was found successfully ****
+2023-06-08 09:50:19,803 : DEBUG : test_001_login : 16 : **** Expected message matched the actual meassage ***
+2023-06-08 09:50:23,861 : DEBUG : loginPage : 32 : **** Phone number field was cleared successfully ****
+2023-06-08 09:50:24,963 : DEBUG : loginPage : 23 : **** Phone number was entered successfully ****
+2023-06-08 09:50:26,036 : DEBUG : loginPage : 43 : **** Password was entered successfully ****
+2023-06-08 09:50:26,618 : DEBUG : loginPage : 53 : **** Login button was clicked successfully ****
+2023-06-08 09:50:27,687 : DEBUG : loginPage : 62 : **** Error message was found successfully ****
+2023-06-08 09:50:27,687 : DEBUG : test_001_login : 32 : **** Expected message matched the actual meassage ***
+2023-06-08 09:50:31,779 : DEBUG : loginPage : 32 : **** Phone number field was cleared successfully ****
+2023-06-08 09:50:32,879 : DEBUG : loginPage : 23 : **** Phone number was entered successfully ****
+2023-06-08 09:50:33,954 : DEBUG : loginPage : 43 : **** Password was entered successfully ****
+2023-06-08 09:50:34,533 : DEBUG : loginPage : 53 : **** Login button was clicked successfully ****
+2023-06-08 09:50:35,450 : DEBUG : loginPage : 62 : **** Error message was found successfully ****
+2023-06-08 09:50:35,450 : DEBUG : test_001_login : 48 : **** Expected message matched the actual meassage ***
+2023-06-08 09:50:39,484 : DEBUG : loginPage : 32 : **** Phone number field was cleared successfully ****
+2023-06-08 09:50:40,617 : DEBUG : loginPage : 23 : **** Phone number was entered successfully ****
+2023-06-08 09:50:41,681 : DEBUG : loginPage : 43 : **** Password was entered successfully ****
+2023-06-08 09:50:42,251 : DEBUG : loginPage : 53 : **** Login button was clicked successfully ****
+2023-06-08 09:50:44,299 : DEBUG : test_001_login : 64 : **** Login was successfull ****
+2023-06-08 09:50:44,353 : DEBUG : loginPage : 81 : **** Important info button was clicked successfully ****
+2023-06-08 09:50:45,121 : DEBUG : loginPage : 90 : **** Permission controller button was clicked successfully ****
+2023-06-08 09:50:46,604 : DEBUG : loginPage : 98 : *** All time button was clicked successfully ****
+2023-06-08 09:50:47,271 : DEBUG : loginPage : 107 : **** Back button was clicked successfully ****
+2023-06-08 09:50:48,156 : DEBUG : loginPage : 81 : **** Important info button was clicked successfully ****
+2023-06-08 09:50:48,822 : DEBUG : loginPage : 81 : **** Important info button was clicked successfully ****
+2023-06-08 09:50:48,822 : DEBUG : test_001_login : 77 : **** Access to the home page was successfull ****
+2023-06-08 09:50:54,521 : DEBUG : accountPage : 16 : **** Menu button was clicked successfully ****
+2023-06-08 09:50:56,104 : DEBUG : accountPage : 24 : **** Account link was clicked successfully ****
+2023-06-08 09:50:58,788 : DEBUG : accountPage : 34 : **** Swipe up was successfull ****
+2023-06-08 09:50:59,170 : DEBUG : accountPage : 43 : **** Edit button was clicked successfully ****
+2023-06-08 09:51:00,815 : DEBUG : accountPage : 53 : **** National ID was entered successfully ****
+2023-06-08 09:51:01,918 : DEBUG : accountPage : 63 : **** KRA pin was entered successfully ****
+2023-06-08 09:51:02,983 : DEBUG : accountPage : 73 : **** Box was entered successfully ****
+2023-06-08 09:51:04,081 : DEBUG : accountPage : 83 : **** City was entered successfully ****
+2023-06-08 09:51:05,178 : DEBUG : accountPage : 93 : **** Postal code was entered successfully ****
+2023-06-08 09:51:06,252 : DEBUG : accountPage : 103 : **** Street was entered successfully ****
+2023-06-08 09:51:06,817 : DEBUG : accountPage : 112 : **** Save button was clicked successfully ****
+2023-06-08 09:51:12,045 : DEBUG : accountPage : 34 : **** Swipe up was successfull ****
+2023-06-08 09:51:12,501 : DEBUG : accountPage : 43 : **** Edit button was clicked successfully ****
+2023-06-08 09:51:13,697 : DEBUG : accountPage : 53 : **** National ID was entered successfully ****
+2023-06-08 09:51:14,772 : DEBUG : accountPage : 63 : **** KRA pin was entered successfully ****
+2023-06-08 09:51:15,789 : DEBUG : accountPage : 73 : **** Box was entered successfully ****
+2023-06-08 09:51:16,875 : DEBUG : accountPage : 83 : **** City was entered successfully ****
+2023-06-08 09:51:17,927 : DEBUG : accountPage : 93 : **** Postal code was entered successfully ****
+2023-06-08 09:51:18,987 : DEBUG : accountPage : 103 : **** Street was entered successfully ****
+2023-06-08 09:51:19,535 : DEBUG : accountPage : 112 : **** Save button was clicked successfully ****
+2023-06-08 09:51:24,973 : DEBUG : accountPage : 34 : **** Swipe up was successfull ****
+2023-06-08 09:51:25,454 : DEBUG : accountPage : 43 : **** Edit button was clicked successfully ****
+2023-06-08 09:51:26,610 : DEBUG : accountPage : 53 : **** National ID was entered successfully ****
+2023-06-08 09:51:27,678 : DEBUG : accountPage : 63 : **** KRA pin was entered successfully ****
+2023-06-08 09:51:28,746 : DEBUG : accountPage : 73 : **** Box was entered successfully ****
+2023-06-08 09:51:29,818 : DEBUG : accountPage : 83 : **** City was entered successfully ****
+2023-06-08 09:51:30,882 : DEBUG : accountPage : 93 : **** Postal code was entered successfully ****
+2023-06-08 09:51:31,945 : DEBUG : accountPage : 103 : **** Street was entered successfully ****
+2023-06-08 09:51:32,518 : DEBUG : accountPage : 112 : **** Save button was clicked successfully ****
+2023-06-08 09:51:33,223 : DEBUG : accountPage : 16 : **** Menu button was clicked successfully ****
+2023-06-08 09:51:34,986 : DEBUG : accountPage : 121 : **** Partners link button was clicked successfully ****
